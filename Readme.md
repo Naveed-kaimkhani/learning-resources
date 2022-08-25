@@ -9,7 +9,11 @@ I believe that the best way to learn something is to build something. So you eve
 * The descriptive detail about project
 * Clear objective of every project
 * All the resources and links to help you find what you need to complete the project
-
+  
+## For more amazing flutter related stuff:
+Lets get connect on
+* Github: https://github.com/Naveed-kaimkhani
+* LinkedIn: https://www.linkedin.com/in/naveed-kaimkhani-499450220
 
 
 
